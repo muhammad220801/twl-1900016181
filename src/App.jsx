@@ -30,10 +30,10 @@ export default function App(){
               </ul>
               <ul className="navbar-nav ms-auto mb-2 mb-lg-0" role="search">
                 <a
-                  href="https://santrikoding.com"
+                  href="https://youtu.be/dQw4w9WgXcQ"
                   target="_blank"
                   className="btn btn-success"
-                  >SANTRIKODING.COM</a
+                  >Muhammad Anhar</a
                 >
               </ul>
             </div>
